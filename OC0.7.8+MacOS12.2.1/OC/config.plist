@@ -275,7 +275,7 @@
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>layout-id</key>
-				<integer>11</integer>
+				<integer>15</integer>
 			</dict>
 		</dict>
 		<key>Delete</key>
