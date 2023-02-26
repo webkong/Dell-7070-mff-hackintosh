@@ -1,8 +1,10 @@
 # Dell-7070-mff-hackintosh
 
-分享一下用了 1 年多的黑苹果 EFI。从 Clover5137 引导的 MacOS10.15 的升级到 OC0.7.4 引导的 MacOS11.6。
+分享一下用了多年的黑苹果 EFI。从 Clover5137 引导的 MacOS10.15 的升级到 OC0.7.4 引导的 MacOS11.6。
 
-戴尔 Micro Optiplex 7070 黑苹果 EFI，所有硬件均正常工作。网卡使用 itlwm 驱动，正常使用网络，无法 AirDrop。
+后续不断更新。
+
+戴尔 Micro Optiplex 7070 黑苹果 EFI，所有硬件均正常工作。网卡使用 itlwm 驱动，正常使用网络，无法使用AirDrop。
 
 ## **硬件**
 
@@ -31,8 +33,6 @@
 3.USB 已定制
 
 4.睡眠(电源键菜单+电源键唤醒+键盘唤醒+鼠标唤醒+蓝牙唤醒+网卡唤醒)
-
-随时更新
 
 ## 更新记录
 
