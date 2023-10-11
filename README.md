@@ -94,7 +94,8 @@
 ### 2023-10-10
 
 1. MacOS OTA 升级为 14.0.0 从 13.5.2 升级
-2. OC 以及内核均使用上一个版本，未变化
+2. 更新了蓝牙内核 IntelBluetooth-v2.3.0
+3. 更新了BlueToolFixup.kext
 
 ## 注意
 
